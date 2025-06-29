@@ -21,4 +21,4 @@ Amazon QuickSight: A business intelligence tool used to create dynamic dashboard
 📂 Dataset:
 The project uses publicly available YouTube trending data from Kaggle, which includes daily stats such as views, likes, comments, tags, video categories, and more — stored in multiple regional files.
 
-Kaggle Dataset Link →
+Kaggle Dataset Link → https://www.kaggle.com/datasets/datasnaek/youtube-new
